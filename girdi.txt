@@ -1,0 +1,31 @@
+4    200
+
+
+Asude Kalgi  123456  N  4 
+Matematik  MTH123  4  A
+Fizik  FZK123  3  B
+Kimya  KMY123  2  D
+Biyoloji  BYL123  2  C
+
+------------------------------
+
+Eser Yüksel  135789  Y  2
+Matematik  MTH123  4  D
+Fizik  FZK123  3  A
+
+------------------------------
+
+Ali Demir  124689  N  3
+Fizik  FZK123  3  B
+Kimya  KMY123  2  C
+Biyoloji  BYL123  2  A
+
+------------------------------
+
+Merve Kaya  344334  Y  5 
+Matematik  MTH123  4  A
+Fizik  FZK123  3  B
+Kimya  KMY123  2  C
+Biyoloji BYL123 2 C
+Bilgisayar BİL123 3 A
+
